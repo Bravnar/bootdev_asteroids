@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 pyrightconfig.json
+game_state.jsonl
