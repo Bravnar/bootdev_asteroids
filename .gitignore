@@ -10,3 +10,4 @@ wheels/
 .venv
 pyrightconfig.json
 game_state.jsonl
+game_events.jsonl
